@@ -1,16 +1,13 @@
-## Hi there 👋
+# felle
+I tinker with Linux, write scripts, and occasionally build things that work. Most of my time is spent in a terminal, tweaking dotfiles, or trying to make my setup a little less annoying.
 
-<!--
-**felle-gram/felle-gram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I use
+- **OS:** Arch Linux with Hyprland
+- **Code:** Neovim, JDK, Zsh, and C when I have to
+- **Tools:** Git, Waybar, Kitty, and whatever else to gets the job done
 
-Here are some ideas to get you started:
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=felle&show_icons=true&theme=transparent&hide_title=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felle&layout=compact&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find more of my stuff at [felle.site](https://felle.site).
