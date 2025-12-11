@@ -17,10 +17,10 @@ Most of my time is spent in a terminal, tweaking [config files](https://github.c
 
 You can find me on:
 - **GitHub:** [@felle-dev](https://github.com/felle-dev)
-- **Twitter/X:** [@felle](https://x.com/_f3lle)
-- **Instagram:** [@felle](https://instagram.com/fell3_u)
-- **TikTok:** [@felle](https://tiktok.com/@felle-to)
-- **Reddit:** [u/felle](https://reddit.com/user/felle-chan)
+- **Twitter/X:** [@_f3lle](https://x.com/_f3lle)
+- **Instagram:** [@fell3_u](https://instagram.com/fell3_u)
+- **TikTok:** [@felle-to](https://tiktok.com/@felle-to)
+- **Reddit:** [u/felle-chan](https://reddit.com/user/felle-chan)
 - **Discord:** `felle_d`
 
 You can find more of my stuff at [felle.site](https://felle.site).
