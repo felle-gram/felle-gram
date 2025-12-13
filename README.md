@@ -1,7 +1,6 @@
 # felle
 
-I like tinkering with my computer, writing scripts, and occasionally building things that work.
-Most of my time is spent in a terminal, tweaking [config files](https://github.com/felle-dev/hyprland-dotfiles), or trying to make my setup a little less annoying.
+I spend most of my time in a terminal, writing scripts and tweaking config files—like my [Hyprland setup](https://github.com/felle-dev/hyprland-dotfiles)—to make things work the way I want.
 
 ## What I use
 
@@ -11,8 +10,7 @@ Most of my time is spent in a terminal, tweaking [config files](https://github.c
 
 ## Stats
 
-![felle-dev's Stats](https://github-readme-stats.vercel.app/api?username=felle-dev&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-<br>
-![felle-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felle-dev&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=felle-dev&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felle-dev&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" width="400" />
 
 You can find more of my stuff at [felle.site](https://felle.site).
