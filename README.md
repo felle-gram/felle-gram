@@ -3,5 +3,5 @@ I spend most of my time in front of my computer, tweaking [config files](https:/
 ## What I use
 
 - **OS:** Arch GNU+Linux
-- **Code:** Neovim, Codium, Android Studio (when I have to)
-- **Tools:** Git, SSH, and whatever else gets the job done
+- **Code:** Neovim, Codium, Android Studio
+- **Tools:** Git, SSH, and something else to gets the job done
