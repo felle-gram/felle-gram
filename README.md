@@ -1,7 +1,7 @@
-I spend most of my time in front of my computer.
+**I build stuff with code.**
 
-## What I use
+- **OS:** Arch Linux
+- **Tools:** Neovim, Codium, Flutter, Git, SSH
+- **Mobile:** GrapheneOS
 
-- **OS:** Arch GNU+Linux
-- **Code:** Neovim, Codium, Android Studio
-- **Tools:** Git, SSH, and anythings to gets the job done
+I care about free software, privacy, and writing apps that work everywhere. No fuss, just code.
