@@ -1,7 +1,6 @@
-**I build stuff with code.**
+**Just a person who uses computers.**
 
 - **OS:** Arch Linux
-- **Tools:** Neovim, Codium, Flutter, Git, SSH
-- **Mobile:** GrapheneOS
+- **Editors:** Neovim, Codium
 
-I care about free software, privacy, and writing apps that work everywhere. No fuss, just code.
+I prefer free software and privacy. No more, no less.
