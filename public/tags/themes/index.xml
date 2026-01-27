@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Themes on not-much demo</title>
+    <title>Themes on felle.site/</title>
     <link>http://localhost:1313/tags/themes/</link>
-    <description>Recent content in Themes on not-much demo</description>
+    <description>Recent content in Themes on felle.site/</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Sample custom notice © {year}</copyright>
+    <copyright>Felle © {year}</copyright>
     <lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>

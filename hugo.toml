@@ -1,8 +1,8 @@
-title = "not-much demo"
+title = "felle.site/"
 theme = "not-much"
 languageCode = "en-us"
-baseURL = "https://example.org/"
-copyright = "Sample custom notice © {year}"
+baseURL = "https://felle.site/"
+copyright = "Felle © {year}"
 
 [markup]
   [markup.highlight]
@@ -11,6 +11,9 @@ copyright = "Sample custom notice © {year}"
     [markup.goldmark.renderer]
       unsafe = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [params]
 theme = "auto"
@@ -59,10 +62,9 @@ lazyLoading = true
     url = "/tags"
     weight = 4
 
-  [[menu.main]]
-    identifier = "github"
-    name = "github"
-    title = "GitHub"
-    url = "https://github.com/imgios/not-much"
-    weight = 5
-
+  # [[menu.main]]
+  #   identifier = "github"
+  #   name = "github"
+  #   title = "GitHub"
+  #   url = "https://github.com/imgios/not-much"
+  #   weight = 5
